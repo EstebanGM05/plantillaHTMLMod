@@ -1,0 +1,3 @@
+Cambios Realizados: 
+Colores de azul a rojo(Algunos) en el archivo de main.css,
+Cambios de imagen en el index.html y texto tambien en el index.html
