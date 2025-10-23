@@ -341,11 +341,11 @@ a.special:not(.button):before {
 }
 
 a.special:not(.button):hover:before {
-	background-color: rgba(255, 255, 255, 0.025);
+	background-color: #c21e1e;
 }
 
 a.special:not(.button):active:before {
-	background-color: rgba(255, 255, 255, 0.075);
+	background-color: #c21e1e;
 }
 
 strong,
@@ -2877,11 +2877,11 @@ ul.pagination li>.page {
 }
 
 ul.pagination li>.page:hover {
-	background-color: rgba(255, 255, 255, 0.025);
+	background-color: #c21e1e;
 }
 
 ul.pagination li>.page.active {
-	background-color: #4c5c96;
+	background-color: #c21e1e;
 }
 
 ul.pagination li:first-child {
@@ -2935,7 +2935,7 @@ table tbody tr {
 }
 
 table tbody tr:nth-child(2n + 1) {
-	background-color: rgba(255, 255, 255, 0.025);
+	background-color: #c21e1e;
 }
 
 table td {
@@ -2951,11 +2951,11 @@ table th {
 }
 
 table thead {
-	border-bottom: solid 2px rgba(255, 255, 255, 0.125);
+	border-bottom: solid 2px #c21e1e;
 }
 
 table tfoot {
-	border-top: solid 2px rgba(255, 255, 255, 0.125);
+	border-top: solid 2px #c21e1e;
 }
 
 table.alt {
@@ -2963,7 +2963,7 @@ table.alt {
 }
 
 table.alt tbody tr td {
-	border: solid 1px rgba(255, 255, 255, 0.125);
+	border: solid 1px #c21e1e;
 	border-left-width: 0;
 	border-top-width: 0;
 }
@@ -3002,7 +3002,7 @@ button,
 	background-color: transparent;
 	border-radius: 5px;
 	border: 0;
-	box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.125);
+	box-shadow: inset 0 0 0 2px #c21e1e;
 	color: #ffffff !important;
 	cursor: pointer;
 	display: inline-block;
@@ -3024,7 +3024,7 @@ input[type="reset"]:hover,
 input[type="button"]:hover,
 button:hover,
 .button:hover {
-	background-color: rgba(255, 255, 255, 0.025);
+	background-color: #c21e1e;
 }
 
 input[type="submit"]:active,
@@ -3032,7 +3032,7 @@ input[type="reset"]:active,
 input[type="button"]:active,
 button:active,
 .button:active {
-	background-color: rgba(255, 255, 255, 0.075);
+	background-color: #c21e1e;
 }
 
 input[type="submit"].icon:before,
@@ -3041,7 +3041,7 @@ input[type="button"].icon:before,
 button.icon:before,
 .button.icon:before {
 	margin-right: 0.5em;
-	color: rgba(255, 255, 255, 0.35);
+	color: #c21e1e;
 }
 
 input[type="submit"].primary,
@@ -3049,7 +3049,7 @@ input[type="reset"].primary,
 input[type="button"].primary,
 button.primary,
 .button.primary {
-	background-color: #4c5c96;
+	background-color: #c21e1e;
 	box-shadow: none;
 }
 
@@ -3058,7 +3058,7 @@ input[type="reset"].primary:hover,
 input[type="button"].primary:hover,
 button.primary:hover,
 .button.primary:hover {
-	background-color: #53639e;
+	background-color: #c21e1e;
 }
 
 input[type="submit"].primary:active,
@@ -3066,7 +3066,7 @@ input[type="reset"].primary:active,
 input[type="button"].primary:active,
 button.primary:active,
 .button.primary:active {
-	background-color: #45558d;
+	background-color: #c21e1e;
 }
 
 input[type="submit"].primary.icon:before,
@@ -3074,7 +3074,7 @@ input[type="reset"].primary.icon:before,
 input[type="button"].primary.icon:before,
 button.primary.icon:before,
 .button.primary.icon:before {
-	color: #7985b0;
+	color: #c21e1e;
 }
 
 input[type="submit"].fit,
@@ -3142,7 +3142,7 @@ button:disabled,
 
 .features article {
 	padding: 1.75em 1.75em 0.1em 1.75em;
-	background-color: #353849;
+	background-color: #c21e1e;
 	border-radius: 5px;
 	margin: 1.5em 3em 1.5em 0;
 	width: calc(50% - 1.5em);
